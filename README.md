@@ -10,7 +10,7 @@ Backend-focused developer building scalable web applications using Java, Node.js
 *   ✉️  You can contact me at [anshukr95086@gmail.com](mailto:anshukr95086@gmail.com)
 *   🧠  I'm currently learning Rust, SpringBoot
 
-[![My GitFut card](https://gitfut.com/ttldaemon.png)](https://gitfut.com/ttldaemon)
+[![My GitFut card](https://gitfut.com/ttldaemon.png)](https://gitfut.com/ttldaemon?country=in)
                   
 
 <p align="center">
